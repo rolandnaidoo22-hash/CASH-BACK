@@ -1,0 +1,1 @@
+// Refer to the chat history for full App.tsx logic

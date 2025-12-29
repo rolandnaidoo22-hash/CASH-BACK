@@ -1,0 +1,8 @@
+{
+  "name": "Cashback",
+  "description": "A smart budgeting app that scans receipts to track spending and automatically calculates rewards.",
+  "requestFramePermissions": [
+    "camera",
+    "payment"
+  ]
+}
